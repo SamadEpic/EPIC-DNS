@@ -1,3 +1,3 @@
 # EPIC DNS
-# nigger
+# all dns's use in this app
 
