@@ -1,3 +1,3 @@
 # epic dns🧧
 ## nigger
-![image](https://my.files.ir/drive/s/xHWVrLthTIWLUxXeU46nCMC58VsFwY)
+![image](https://s8.uupload.ir/files/epic_dns_train_d1gm.png)
