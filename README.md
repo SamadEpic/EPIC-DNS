@@ -1,4 +1,4 @@
-# epic dns🧧
+# EPIC DNS🧧
 ## readme
 salam dostan aziz in barname dar hal test va debug hast lotfan
 agar az barname moshkel crash ... deded hatman be ma gozaresh beded
