@@ -24,13 +24,4 @@
    * ط  pip install pip
    * ط  pip install PySide6
 * بعد اتمام دانلود و نصب شما موفق به دانلود و نصب پیش نیاز هایه برنامه کردید
-##
-![image](https://s8.uupload.ir/files/epic_dns_train_d1gm.png)
-##
-<a href="https://uupload.ir/view/epic_dns_train_d1gm.png" target="_blank"><img src="https://s8.uupload.ir/files/epic_dns_train_d1gm_thumb.png" border="0" alt="آپلود عکس" /></a>
-##
-[URL=https://uupload.ir/][IMG]https://s8.uupload.ir/files/epic_dns_train_d1gm.png[/IMG][/URL]
-##
-<a href="https://uupload.ir/" target="_blank"><img src="https://s8.uupload.ir/files/epic_dns_train_d1gm.png" border="0" alt="آپلود عکس" /></a>
-##
-<a href="https://uupload.ir/view/epic_dns_train_d1gm.png" target="_blank"><img src="https://s8.uupload.ir/files/epic_dns_train_d1gm_thumb.png" border="0" alt="آپلود عکس" /></a>
+
