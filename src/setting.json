@@ -1,0 +1,10 @@
+{
+  "default_dns_list": [
+    {"name": "Google DNS", "primary": "8.8.8.8", "secondary": "8.8.4.4"},
+    {"name": "Cloudflare DNS", "primary": "1.1.1.1", "secondary": "1.0.0.1"},
+    {"name": "OpenDNS", "primary": "208.67.222.222", "secondary": "208.67.220.220"}
+    // dns هایه بیشتری میتونه اضافی شه
+  ],
+  "last_selected_dns_name": "Google DNS", // نام DNS که آخرین بار انتخاب شده بود
+  "is_dns_on": false // وضعیت فعلی DNS (روشن یا خاموش)
+}
