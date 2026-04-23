@@ -1,2 +1,3 @@
-5.57.39.9:2678
+# epic dns🧧
+## nigger
 ![image] (https://my.files.ir/drive/s/xHWVrLthTIWLUxXeU46nCMC58VsFwY)
