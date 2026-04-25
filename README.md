@@ -6,7 +6,7 @@
 <a href="#"><img alt="EPIC-DNS Repo stars" src="https://img.shields.io/github/stars/MatrixTM/MHDDoS?style=for-the-badge&color=yellow"></a>
 <a href="#"><img alt="EPIC-DNS License" src="https://img.shields.io/github/license/MatrixTM/MHDDoS?color=orange&style=for-the-badge"></a>
 <a href="#"><img alt="EPIC-DNS issues" src="https://img.shields.io/github/issues/MatrixTM/MHDDoS?color=purple&style=for-the-badge"></a>
-<p align="center"><img src="https://s8.uupload.ir/files/epic_dns_train_d1gm.png" width="336" height="456" alt="شومبول"></p>
+<p align="center"><img src="https://s8.uupload.ir/files/epic_dns_train_d1gm.png" width="336" height="456" alt="باز نشد"></p>
 
 
 ## readme
