@@ -7,7 +7,7 @@
 <a href="#"><img alt="EPIC-DNS License" src="https://img.shields.io/github/license/MatrixTM/MHDDoS?color=orange&style=for-the-badge"></a>
 <a href="#"><img alt="EPIC-DNS issues" src="https://img.shields.io/github/issues/MatrixTM/MHDDoS?color=purple&style=for-the-badge"></a>
 <p align="center"><img src="[https://github.com/SamadEpic/EPIC-DNS/blob/main/Screenshot%20(792)%20copy.png]" width="336]" height="456" alt="باز نشد"></p>
-![Description](images/Screenshot (792) copy.png)
+![Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/images/i1.png)
 
 
 ## readme
