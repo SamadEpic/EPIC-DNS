@@ -6,8 +6,12 @@
 <a href="#"><img alt="EPIC-DNS Repo stars" src="https://img.shields.io/github/stars/MatrixTM/MHDDoS?style=for-the-badge&color=yellow"></a>
 <a href="#"><img alt="EPIC-DNS License" src="https://img.shields.io/github/license/MatrixTM/MHDDoS?color=orange&style=for-the-badge"></a>
 <a href="#"><img alt="EPIC-DNS issues" src="https://img.shields.io/github/issues/MatrixTM/MHDDoS?color=purple&style=for-the-badge"></a>
-<p align="center"><img src="[https://github.com/SamadEpic/EPIC-DNS/blob/main/Screenshot%20(792)%20copy.png]" width="336]" height="456" alt="باز نشد"></p>
-![Screenshot](https://raw.githubusercontent.com/USERNAME/REPO/main/images/i1.png)
+<p align="center">
+  <img width="352" height="489" alt="Screenshot 1" src="https://github.com/user-attachments/assets/1ef85100-3e77-4130-971c-c2d4885e5dd7" />
+  <img width="352" height="489" alt="[Screenshot 2" src="SECOND_IMAGE_URL](https://github.com/user-attachments/assets/67451081-56fb-425b-9ce4-57141dd2606c)" />
+</p>
+
+
 
 
 ## readme
