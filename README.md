@@ -8,7 +8,7 @@
 <a href="#"><img alt="EPIC-DNS issues" src="https://img.shields.io/github/issues/MatrixTM/MHDDoS?color=purple&style=for-the-badge"></a>
 <p align="center">
   <img width="352" height="489" alt="Screenshot 1" src="https://github.com/user-attachments/assets/1ef85100-3e77-4130-971c-c2d4885e5dd7" />
-  <img width="352" height="489" alt="[Screenshot 2" src="SECOND_IMAGE_URL](https://github.com/user-attachments/assets/67451081-56fb-425b-9ce4-57141dd2606c)" />
+  <img width="352" height="489" alt="[Screenshot 2" src="https://github.com/user-attachments/assets/67451081-56fb-425b-9ce4-57141dd2606c" />
 </p>
 
 
